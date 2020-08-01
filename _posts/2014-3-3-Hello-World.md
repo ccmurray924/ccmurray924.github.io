@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The Goods
 published: true
 ---
 ## Lingwei's sexy thighs!!!
