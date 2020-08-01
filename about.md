@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+We're awesome and smart and we're changing the world!
 
-Some information about you!
+### A Wu-han & a Pelican
 
-### More Information
+Might accidentally blow up your computer.
+But also make delicious things.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[lingwei@dancingmanialab.com](mailto:email@domain.com)
