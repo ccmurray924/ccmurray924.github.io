@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Goods
+title: Science Goods
 published: true
 ---
 ## Lingwei's sexy thighs!!!
