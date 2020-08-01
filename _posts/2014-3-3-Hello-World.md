@@ -3,6 +3,6 @@ layout: post
 title: You're up and running!
 published: true
 ---
-##
+##Lingwei's sexy thighs!!!
 
-Lingewi's sexy thighs & Almond Yogurt
+###and almond yogurt!
